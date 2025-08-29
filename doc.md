@@ -1,0 +1,1 @@
+API key for Fred = 474454b35638670b136ca852f45b70d1
